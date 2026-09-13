@@ -51,13 +51,12 @@ def parse_toml(filename, schedules):
 
 schedules = {}
 
-parse_toml("./toml_files/summer_monday.s.toml", schedules)
-parse_toml("./toml_files/summer_tuesday.s.toml", schedules)
-parse_toml("./toml_files/summer_wednesday.s.toml", schedules)
-parse_toml("./toml_files/summer_thursday.s.toml", schedules)
-parse_toml("./toml_files/summer_saturday.s.toml", schedules)
-parse_toml("./toml_files/summer_sunday.s.toml", schedules)
+parse_toml("./toml_files/fall_monday.s.toml", schedules)
+parse_toml("./toml_files/fall_tuesday.s.toml", schedules)
+parse_toml("./toml_files/fall_wednesday.s.toml", schedules)
+parse_toml("./toml_files/fall_thursday.s.toml", schedules)
+parse_toml("./toml_files/fall_saturday.s.toml", schedules)
 
 
-with open("schedules_summer.json", "w") as f:
+with open("schedules_fall.json", "w") as f:
     json.dump(schedules, f, indent=4)
