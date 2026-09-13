@@ -1,0 +1,1391 @@
+{
+    "adeline": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "adelines_bedroom/Bed",
+                "6:01am": "town/Town Center Flower Beds",
+                "9:23am": "western_ruins/Grid Supervisor",
+                "2:49pm": "inn/South Table Bottom 1",
+                "9:22pm": "inn/South Table Bottom 1",
+                "12:43am": "adelines_bedroom/Bed"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "town/Adeline Wake Point",
+                "8:41am": "adelines_office/routine_entrance",
+                "1:23pm": "town/Quest Board",
+                "5:56pm": "inn/North Table Bottom 1",
+                "9:12pm": "inn/North Table Bottom 1",
+                "11:53pm": "adelines_bedroom/Bed"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "adelines_bedroom/Bed",
+                "6:21am": "bathhouse_change_room/Middle Bench Left Seat",
+                "9:51am": "inn/South Table Top 1",
+                "4:13pm": "general_store_store/shopping_entrance",
+                "7:12pm": "adelines_office/routine_entrance",
+                "11:23pm": "adelines_bedroom/Bed"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "adelines_bedroom/Bed",
+                "6:41am": "town/Quest Board",
+                "10:51am": "town/repair_restoration_review",
+                "1:42pm": "town/mill_restoration_review",
+                "5:23pm": "town/Quest Board",
+                "7:17pm": "celines_room/Couch Seat Upper",
+                "11:23pm": "adelines_bedroom/Bed"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/Fountain Hang 1",
+                "8:12pm": "inn/Bottom-Middle Bar Seat",
+                "12:32am": "adelines_bedroom/Bed"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "beach/group_1",
+                "10:32am": "beach/Chat Below Towels 1",
+                "1:02pm": "beach/Top Bench Seat",
+                "3:41pm": "manor_house_dining_room/Table Right Seat 1",
+                "12:12am": "adelines_bedroom/Armchair Seat"
+            }
+        }
+    },
+    "balor": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "haydens_farm/Farm Visitor 2",
+                "8:23am": "haydens_farm/Observer",
+                "10:15am": "haydens_house/Table Seat 2",
+                "12:41pm": "landens_house_f1/Register Chatting",
+                "5:32pm": "eastern_road/Porch Conversation Left",
+                "8:48pm": "inn/Top-Middle Bar Seat",
+                "12:33am": "balors_room/Balor Wake Point"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "balors_room/Balor Wake Point",
+                "6:23am": "inn/Storyteller",
+                "8:25am": "inn/North Table Bottom 2",
+                "10:21am": "western_ruins/Grid Supervisor",
+                "4:12pm": "haydens_house/Table Seat 2",
+                "9:18pm": "haydens_house/Couch Seat Right",
+                "11:33pm": "balors_room/Balor Wake Point"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "beach/group_1",
+                "11:25am": "beach/Chat Below Towels 3",
+                "3:42pm": "inn/North Table Bottom 1",
+                "11:53pm": "balors_room/Balor Wake Point"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "balors_room/Balor Wake Point",
+                "6:23am": "town/Wagon Meet Up 2",
+                "12:12pm": "inn/North Table Top 1",
+                "2:23pm": "town/Wagon Meet Up 2",
+                "5:12pm": "eastern_road/adeline_business_carpenter",
+                "8:03pm": "inn/Top Bar Seat",
+                "12:23am": "balors_room/Balor Wake Point"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/Town Center Flower Beds",
+                "8:03pm": "inn/Top Bar Seat",
+                "1:17am": "balors_room/Balor Wake Point"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "beach/group_2",
+                "10:41am": "beach/Dock Chatting 1",
+                "12:41pm": "beach/Chat Below Towels 1",
+                "2:11pm": "beach/Left Bench Seat",
+                "3:42pm": "manor_house_dining_room/Table Left Seat 1",
+                "11:37pm": "balors_room/Balor Wake Point"
+            }
+        }
+    },
+    "celine": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "celines_room/Celine Wake Point",
+                "6:21am": "town/manor_routine_entrance",
+                "11:16am": "general_store_store/south_entrance_to_shift",
+                "5:12pm": "town/Celine Cottage Bench Left",
+                "10:21pm": "celines_room/ArmChair Seat"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "celines_room/Celine Wake Point",
+                "6:21am": "town/Celine Cottage Bench Left",
+                "9:14am": "town/Celine Cottage Bench Left",
+                "12:16pm": "bathhouse/Cauldron 2",
+                "4:09pm": "bathhouse_change_room/Middle Bench Left Seat",
+                "7:12pm": "inn/North Table Top 2",
+                "10:15pm": "inn/North Table Top 2",
+                "11:51pm": "celines_room/ArmChair Seat"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "celines_room/Celine Wake Point",
+                "6:21am": "town/Quest Board Looking 1",
+                "10:14am": "town/celine_garden_start",
+                "1:46pm": "town/manor_routine_entrance",
+                "6:09pm": "celines_room/ArmChair Seat"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "haydens_farm/north_to_chores",
+                "10:51am": "museum_entry/chat_2",
+                "2:23pm": "museum_entry/chat_2",
+                "5:29pm": "celines_room/ArmChair Seat"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "celines_room/ArmChair Seat",
+                "6:01am": "town/town_south_routine_entrance",
+                "6:41pm": "celines_room/ArmChair Seat"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "beach/group_3",
+                "9:33am": "beach/Chat Below Towels 3",
+                "1:03pm": "beach/Lighthouse",
+                "4:03pm": "general_store_home/Kitchen Table Top Right",
+                "12:13am": "celines_room/ArmChair Seat"
+            }
+        }
+    },
+    "dell": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "general_store_store/Shopping 1",
+                "6:01am": "town/Town South Meetup 2",
+                "7:11am": "town/playground_hgs_count",
+                "8:15am": "town/playground_hgs_count",
+                "9:39am": "town/Big Tree Playdate 4",
+                "10:13am": "beach/Chat Below Towels 1",
+                "3:12pm": "beach/sand_castle_3",
+                "4:41pm": "dells_bedroom/Dell Bed"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "general_store_store/Shopping 1",
+                "6:01am": "inn/Story Listener 1",
+                "8:35am": "town/Celine Bench Group 1",
+                "12:14pm": "inn/South Table Bottom 1",
+                "4:42pm": "bathhouse/Cauldron 1",
+                "6:11pm": "clinic_f1/Kids 1",
+                "8:25pm": "inn/Story Listener 1",
+                "9:56pm": "dells_bedroom/Dell Bed"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "general_store_store/Shopping 1",
+                "6:01am": "town/Town South Meetup 2",
+                "7:25am": "eastern_road/observation_1",
+                "1:14pm": "eastern_road/kids_1",
+                "4:21pm": "inn/South Table Bottom 1",
+                "8:16pm": "dells_bedroom/Dell Bed"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "general_store_store/Shopping 1",
+                "6:01am": "town/Town South Meetup 2",
+                "7:25am": "town/forge_observation_1",
+                "11:11am": "narrows/kid_group_hang_1",
+                "4:21pm": "general_store_home/Kitchen Table Top Left",
+                "8:06pm": "dells_bedroom/Dell Bed"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "general_store_home/Kitchen Table Top Left",
+                "7:33am": "town/general_store_entrance_routine",
+                "4:18pm": "inn/Story Listener 1",
+                "5:33pm": "inn/South Table Top 1",
+                "7:27pm": "dells_bedroom/Dell Bed"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "narrows/hgs_3",
+                "10:25am": "western_ruins/Dig Site Tour 1",
+                "3:53pm": "general_store_home/Kitchen Table Bottom Right",
+                "10:02pm": "dells_bedroom/Dell Bed"
+            }
+        }
+    },
+    "dozy": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "bathhouse/Dozy"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "bathhouse/Dozy"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "bathhouse/Dozy"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "bathhouse/Dozy"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "bathhouse/Dozy"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "bathhouse/Dozy"
+            }
+        }
+    },
+    "eiland": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "inn/South Table Top 2",
+                "7:41am": "western_ruins/routine_entrance",
+                "2:51pm": "museum_entry/Museum Admiring Painting Right",
+                "5:23pm": "eilands_office/routine_entrance",
+                "12:22am": "eilands_bedroom/Loveseat Left Seat"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "western_ruins/routine_entrance",
+                "1:51pm": "museum_entry/Museum Admiring Painting Right",
+                "5:13pm": "inn/North Table Bottom 2",
+                "11:51pm": "inn/Top-Middle Bar Seat",
+                "12:22am": "eilands_bedroom/Loveseat Left Seat"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "western_ruins/routine_entrance",
+                "1:41pm": "bathhouse_change_room/Middle Bench Right Seat",
+                "7:13pm": "inn/Top Bar Seat",
+                "12:12am": "eilands_bedroom/Loveseat Left Seat"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "eilands_bedroom/Loveseat Left Seat",
+                "6:01am": "clinic_f1/Check In",
+                "8:43am": "museum_entry/Museum Desk",
+                "4:52pm": "town/garden_wander_entrance",
+                "9:13pm": "eilands_office/routine_entrance",
+                "12:12am": "eilands_bedroom/Loveseat Left Seat"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "eilands_bedroom/Loveseat Left Seat",
+                "6:51am": "town/Eiland Wake Point",
+                "6:43pm": "eilands_office/routine_entrance",
+                "12:23am": "eilands_bedroom/Loveseat Left Seat"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "beach/group_4",
+                "10:42am": "beach/Dock Chatting 2",
+                "12:42pm": "beach/Chat Below Towels 2",
+                "2:12pm": "beach/sand_castle_2",
+                "3:39pm": "manor_house_dining_room/Table Right Seat 2",
+                "11:52pm": "eilands_bedroom/Loveseat Left Seat"
+            }
+        }
+    },
+    "elsie": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "elsies_bedroom/Bed",
+                "6:52am": "town/Fountain Square Right 1",
+                "10:22am": "town/garden_wander_entrance",
+                "4:55pm": "inn/Top Bar Seat",
+                "10:22pm": "elsies_bedroom/Chaise Right Seat"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "town/Eiland Wake Point",
+                "8:39am": "bathhouse_change_room/Middle Bench Right Seat",
+                "12:31pm": "bathhouse/Cauldron 4",
+                "5:25pm": "inn/North Table Top 1",
+                "8:25pm": "inn/North Table Top 1",
+                "11:24pm": "elsies_bedroom/Chaise Right Seat"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Top 1",
+                "9:59am": "general_store_store/shopping_entrance",
+                "1:21pm": "town/Gazebo Hang Left",
+                "4:35pm": "bathhouse_change_room/Middle Bench Left Seat",
+                "9:45pm": "elsies_bedroom/Chaise Right Seat"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "bathhouse_change_room/Middle Bench Right Seat",
+                "8:49am": "museum_entry/chat_2",
+                "12:21pm": "inn/North Table Left End",
+                "3:22pm": "town/Bothering Balor",
+                "5:11pm": "general_store_store/shopping_entrance",
+                "7:12pm": "manor_house_entry/Couch Middle Seat",
+                "11:36pm": "elsies_bedroom/Chaise Right Seat"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/Adeline Wake Point",
+                "6:17pm": "manor_house_dining_room/Table Right Seat 1"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "elsies_bedroom/Chaise Right Seat",
+                "6:01am": "bathhouse_change_room/Middle Bench Right Seat",
+                "11:35am": "bathhouse/Cauldron 4",
+                "5:42pm": "manor_house_dining_room/Table Left Seat 2"
+            }
+        }
+    },
+    "errol": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "inn/South Table Bottom 2",
+                "7:42am": "museum_entry/Museum Desk",
+                "4:45pm": "museum_entry/Museum Admiring Painting Left",
+                "5:24pm": "eilands_office/routine_entrance",
+                "10:48pm": "errols_bedroom/Desk Chair"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "eastern_road/adeline_business_carpenter",
+                "8:12am": "museum_entry/Museum Desk",
+                "3:45pm": "museum_entry/Museum Admiring Painting Left",
+                "5:14pm": "inn/Top Bar Seat",
+                "10:18pm": "errols_bedroom/Desk Chair"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "museum_entry/Museum Desk",
+                "6:01am": "western_ruins/routine_entrance",
+                "1:45pm": "clinic_f1/Bothering Valen",
+                "7:14pm": "inn/Top-Middle Bar Seat",
+                "10:58pm": "errols_bedroom/Desk Chair"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "errols_bedroom/Desk Chair",
+                "6:01am": "western_ruins/routine_entrance",
+                "2:45pm": "clinic_f1/Bothering Valen",
+                "6:44pm": "eastern_road/Porch Conversation Left",
+                "11:52pm": "errols_bedroom/Desk Chair"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "errols_bedroom/Desk Chair",
+                "6:01am": "town/north_west_routine_entrance",
+                "7:27pm": "errols_bedroom/Desk Chair"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "bathhouse_change_room/Left Bench Right Seat",
+                "8:32am": "western_ruins/Dig Site Tour Guide",
+                "4:12pm": "haydens_house/Table Seat 2",
+                "10:15pm": "haydens_house/Couch Seat Middle",
+                "12:02am": "errols_bedroom/Errol Wake Point"
+            }
+        }
+    },
+    "hayden": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "haydens_farm/Farm Visitor 1",
+                "8:21am": "haydens_farm/Farm Visitor 1",
+                "10:24am": "haydens_house/Table Seat 1",
+                "1:06pm": "museum_entry/south_routine_entrance",
+                "4:31pm": "inn/South Table Left End",
+                "10:13pm": "inn/Bottom-Middle Bar Seat",
+                "12:19am": "haydens_house/Couch Seat Right"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "town/north_west_routine_entrance",
+                "6:01am": "town/adeline_business_general_store",
+                "8:41am": "general_store_store/shopping_entrance",
+                "11:04am": "haydens_farm/north_to_chores",
+                "7:31pm": "haydens_house/Table Seat 1",
+                "9:17pm": "haydens_house/Haybale Seat 2"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "haydens_farm/Farm Visitor 1",
+                "9:41am": "beach/group_2",
+                "11:21am": "beach/Dock Chatting 1",
+                "2:47pm": "beach/Chat Below Towels 2",
+                "4:48pm": "beach/sand_castle_2",
+                "6:42pm": "haydens_house/Table Seat 1",
+                "11:39pm": "haydens_house/Haybale Seat 2"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "town/north_west_routine_entrance",
+                "1:53pm": "bathhouse_change_room/Right Bench Left Seat",
+                "3:41pm": "haydens_house/Table Seat 1",
+                "11:39pm": "haydens_house/Haybale Seat 2"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/town_south_routine_entrance",
+                "7:39pm": "inn/North Table Top 1",
+                "12:19am": "haydens_house/Haybale Seat 1"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Top 2",
+                "9:52am": "haydens_farm/north_to_chores",
+                "7:03pm": "haydens_house/Table Seat 1",
+                "10:14pm": "haydens_house/Couch Seat Right"
+            }
+        }
+    },
+    "hemlock": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Bottom 3",
+                "7:32am": "inn/North Table Bottom 3",
+                "12:41pm": "town/inn_exit_routine",
+                "3:39pm": "town/Inn Yard",
+                "6:42pm": "inn/bartender_entrance",
+                "1:21am": "jo_and_hemlocks_room/Hemlock Wake Point"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Bottom 2",
+                "7:42am": "inn/North Table Bottom 2",
+                "12:42pm": "general_store_store/shopping_entrance",
+                "4:12pm": "town/Fountain Square Right 2",
+                "5:22pm": "town/garden_wander_entrance",
+                "8:49pm": "inn/Storyteller",
+                "10:52pm": "inn/Bar Stand Middle",
+                "1:31am": "jo_and_hemlocks_room/Hemlock Wake Point"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Bottom 3",
+                "9:24am": "inn/North Table Bottom 3",
+                "6:12pm": "inn/North Table Top 1",
+                "1:31am": "jo_and_hemlocks_room/Hemlock Wake Point"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Bottom 3",
+                "7:23am": "town/Wagon Meet Up 1",
+                "9:53am": "town/Anvil Chatting 1",
+                "11:12am": "narrows/supervisor_1",
+                "4:14pm": "general_store_home/Kitchen Stool Left",
+                "8:39pm": "inn/food_service_entrance",
+                "1:21am": "jo_and_hemlocks_room/Hemlock Wake Point"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/inn_exit_routine",
+                "4:51pm": "inn/food_service_entrance",
+                "6:00pm": "inn/South Table Bottom 2",
+                "7:44pm": "inn/Kid Drop Off",
+                "8:10pm": "inn/bartender_entrance",
+                "1:43am": "jo_and_hemlocks_room/Hemlock Wake Point"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Top 3",
+                "8:45am": "general_store_store/shopping_entrance",
+                "1:25pm": "inn/food_service_entrance",
+                "6:51pm": "inn/South Table Top 2",
+                "12:23am": "jo_and_hemlocks_room/Hemlock Wake Point"
+            }
+        }
+    },
+    "henrietta": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "haydens_house/Hayden Kitchen"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "haydens_house/Hayden Kitchen"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "haydens_house/Hayden Kitchen"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "haydens_house/Hayden Kitchen"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "haydens_house/Hayden Kitchen"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "haydens_house/Hayden Kitchen"
+            }
+        }
+    },
+    "holt": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "general_store_store/north_entrance_to_shift",
+                "11:49am": "town/general_store_entrance_routine",
+                "3:09pm": "town/Inn Yard Talking To",
+                "6:38pm": "town/adeline_business_general_store",
+                "9:25pm": "inn/South Table Top 2",
+                "12:32am": "general_store_home/Lower Couch Right Seat"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "town/general_store_entrance_routine",
+                "7:01am": "town/business_general_store",
+                "8:43am": "town/general_store_entrance_routine",
+                "11:08am": "general_store_store/south_entrance_to_shift",
+                "5:22pm": "inn/South Table Left End",
+                "9:57pm": "general_store_home/Upper Couch Right Seat"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "general_store_store/north_entrance_to_shift",
+                "10:25am": "town/general_store_entrance_routine",
+                "1:23pm": "town/business_general_store",
+                "4:43pm": "general_store_store/south_entrance_to_shift",
+                "7:32pm": "celines_room/Couch Seat Upper",
+                "11:41pm": "general_store_home/Upper Couch Right Seat"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "general_store_home/Kitchen Table Top Left",
+                "7:23am": "town/Wagon Meet Up 3",
+                "9:52am": "town/Anvil Chatting 2",
+                "11:13am": "narrows/supervisor_2",
+                "4:13pm": "general_store_home/Kitchen Stool Right",
+                "8:45pm": "general_store_home/Upper Couch Right Seat"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "general_store_home/Kitchen Table Top Right",
+                "7:34am": "town/general_store_entrance_routine",
+                "4:52pm": "inn/South Table Top 2",
+                "7:26pm": "general_store_home/Upper Couch Right Seat"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "general_store_store/General Store Register",
+                "10:07am": "museum_entry/south_routine_entrance",
+                "2:53pm": "museum_entry/chat_1",
+                "5:23pm": "general_store_home/Kitchen Table Top Left",
+                "11:54pm": "general_store_home/Upper Couch Right Seat"
+            }
+        }
+    },
+    "josephine": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Top 3",
+                "7:15am": "inn/work_chat_2",
+                "8:21am": "inn/North Table Bottom 1",
+                "9:12am": "town/Playground Parent 1",
+                "10:16am": "beach/Top Bench Seat",
+                "4:32pm": "inn/Kid Drop Off",
+                "8:45pm": "inn/South Table Top 1",
+                "12:44am": "jo_and_hemlocks_room/Jo Wake Point"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Top 3",
+                "7:15am": "bathhouse_change_room/Middle Bench Left Seat",
+                "11:21am": "town/Fountain Square Right 1",
+                "5:21pm": "town/garden_wander_entrance",
+                "8:51pm": "inn/Top Bar Seat",
+                "1:24am": "jo_and_hemlocks_room/Jo Wake Point"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Top 3",
+                "9:15am": "town/inn_exit_routine",
+                "1:51pm": "general_store_store/shopping_entrance",
+                "6:11pm": "inn/food_service_entrance",
+                "1:24am": "jo_and_hemlocks_room/Jo Wake Point"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Top 3",
+                "10:25am": "town/inn_exit_routine",
+                "12:31pm": "inn/food_service_entrance",
+                "2:51pm": "general_store_store/shopping_entrance",
+                "6:11pm": "inn/food_service_entrance",
+                "1:19am": "jo_and_hemlocks_room/Jo Wake Point"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Top 1",
+                "7:22am": "town/inn_exit_routine",
+                "7:43pm": "inn/Top-Middle Bar Seat",
+                "1:42am": "jo_and_hemlocks_room/Jo Wake Point"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "inn/Balcony Hang 1",
+                "1:06pm": "inn/South Table Top 2",
+                "5:56pm": "inn/South Table Top 2",
+                "7:41pm": "inn/South Table Left End",
+                "12:21am": "jo_and_hemlocks_room/Jo Wake Point"
+            }
+        }
+    },
+    "juniper": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "bathhouse/Cauldron 3",
+                "6:01am": "eastern_road/north_west_routine_entrance",
+                "11:43am": "general_store_store/south_entrance_to_shift",
+                "5:21pm": "inn/Top-Middle Bar Seat",
+                "10:21pm": "bathhouse_bedroom/Crystal Ball Seat"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "inn/South Table Left End",
+                "9:54am": "bathhouse/Front Desk",
+                "12:36pm": "bathhouse/Cauldron 3",
+                "6:15pm": "town/clinic_routine_entrance",
+                "6:49pm": "western_ruins/routine_entrance"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "beach/group_3",
+                "11:23am": "beach/Dock Chatting 2",
+                "2:45pm": "beach/Lighthouse",
+                "6:45pm": "haydens_house/Table Seat 2"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "bathhouse_change_room/Middle Bench Left Seat",
+                "8:48am": "museum_entry/chat_1",
+                "2:22pm": "terithias_house/Couch Seat Bottom",
+                "7:50pm": "beach/Dock Chatting 2",
+                "11:12pm": "bathhouse_bedroom/Crystal Ball Seat"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "bathhouse/Cauldron 3",
+                "6:42am": "town/bathhouse_town_routine_entrance",
+                "6:37pm": "manor_house_dining_room/Table Left Seat 1"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "bathhouse/Front Desk",
+                "11:39am": "bathhouse/Cauldron 3",
+                "5:11pm": "town/Conversation Outside Clinic Right",
+                "8:19pm": "bathhouse_bedroom/Crystal Ball Seat"
+            }
+        }
+    },
+    "landen": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "landens_house_f1/Register",
+                "6:21am": "town/Fountain Square Right 3",
+                "10:23am": "landens_house_f1/Register",
+                "5:33pm": "eastern_road/Porch Conversation Right",
+                "9:21pm": "landens_house_f1/Carpentry Point Left",
+                "11:49pm": "landens_house_f2/Landen Wake Point"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "eastern_road/business_carpenter",
+                "8:13am": "inn/North Table Top 1",
+                "12:33pm": "eastern_road/north_west_routine_entrance",
+                "9:21pm": "landens_house_f1/Carpentry Point Left",
+                "11:49pm": "landens_house_f2/Landen Wake Point"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Bottom 1",
+                "10:43am": "museum_entry/south_routine_entrance",
+                "6:21pm": "inn/Bottom-Middle Bar Seat",
+                "11:59pm": "landens_house_f2/Landen Wake Point"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Bottom 2",
+                "8:43am": "town/garden_wander_entrance",
+                "12:53pm": "eastern_road/north_west_routine_entrance",
+                "6:42pm": "eastern_road/business_carpenter",
+                "8:02pm": "eastern_road/Porch Conversation Right",
+                "11:53pm": "landens_house_f2/Landen Wake Point"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "landens_house_f2/Landen Wake Point",
+                "6:01am": "town/Fountain Meetcute 2",
+                "6:51pm": "inn/North Table Bottom 1",
+                "11:23pm": "landens_house_f2/Landen Wake Point"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "landens_house_f1/Carpentry Point Left",
+                "6:01am": "bathhouse_change_room/Left Stool Seat",
+                "1:18pm": "inn/Top Bar Seat",
+                "5:47pm": "eastern_road/Porch Conversation Right",
+                "8:24pm": "landens_house_f1/Carpentry Point Left"
+            }
+        }
+    },
+    "luc": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "inn/Bottom Bar Seat",
+                "6:01am": "town/Town South Meetup 3",
+                "7:12am": "town/playground_hgs_lamppost",
+                "9:41am": "town/Big Tree Playdate 1",
+                "10:12am": "beach/Chat Below Towels 3",
+                "3:11pm": "beach/sand_castle_1",
+                "4:39pm": "lucs_room/Luc Bed"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "inn/Bottom Bar Seat",
+                "6:01am": "inn/Story Listener 2",
+                "8:36am": "town/Celine Bench Group 2",
+                "12:13pm": "inn/South Table Bottom 2",
+                "4:43pm": "bathhouse/Cauldron 2",
+                "6:12pm": "clinic_f1/Kids 3",
+                "8:23pm": "inn/Story Listener 2",
+                "10:39pm": "lucs_room/Luc Bed"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "inn/Bottom Bar Seat",
+                "6:01am": "town/Town South Meetup 1",
+                "7:24am": "eastern_road/observation_2",
+                "1:13pm": "eastern_road/kids_3",
+                "4:22pm": "inn/South Table Top 1",
+                "8:29pm": "lucs_room/Luc Bed"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "inn/Bottom Bar Seat",
+                "6:01am": "town/Town South Meetup 1",
+                "7:24am": "town/forge_observation_2",
+                "11:12am": "narrows/kid_group_hang_2",
+                "4:22pm": "general_store_home/Kitchen Table Top Right",
+                "8:04pm": "lucs_room/Luc Bed"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Left End",
+                "7:24am": "town/inn_exit_routine",
+                "3:57pm": "inn/Story Listener 2",
+                "5:35pm": "inn/South Table Bottom 1",
+                "7:38pm": "lucs_room/Luc Bed"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "narrows/hgs_2",
+                "10:24am": "western_ruins/Dig Site Tour 2",
+                "3:51pm": "inn/South Table Top 1",
+                "10:13pm": "lucs_room/Luc Bed"
+            }
+        }
+    },
+    "maple": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "inn/Bottom-Middle Bar Seat",
+                "6:01am": "town/Town South Meetup 1",
+                "7:13am": "town/playground_hgs_tree",
+                "9:41am": "town/Big Tree Playdate 3",
+                "10:14am": "beach/Chat Below Towels 2",
+                "3:14pm": "beach/sand_castle_2",
+                "4:38pm": "maples_room/Maple Wake Point"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "inn/Bottom-Middle Bar Seat",
+                "6:01am": "inn/Story Listener 3",
+                "8:34am": "town/Celine Bench Group 3",
+                "12:14pm": "inn/South Table Bottom 3",
+                "4:44pm": "bathhouse/Cauldron 4",
+                "6:11pm": "clinic_f1/Kids 2",
+                "8:22pm": "inn/Story Listener 3",
+                "10:39pm": "maples_room/Maple Wake Point"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "inn/Bottom-Middle Bar Seat",
+                "6:01am": "town/Town South Meetup 3",
+                "7:25am": "eastern_road/observation_3",
+                "1:12pm": "eastern_road/kids_2",
+                "4:23pm": "inn/South Table Left End",
+                "8:28pm": "maples_room/Maple Wake Point"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "inn/Bottom-Middle Bar Seat",
+                "6:01am": "town/Town South Meetup 3",
+                "7:25am": "town/forge_observation_3",
+                "11:13am": "narrows/kid_group_hang_3",
+                "4:23pm": "general_store_home/Kitchen Table Bottom Right",
+                "8:03pm": "maples_room/Maple Wake Point"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Bottom 1",
+                "7:21am": "town/inn_exit_routine",
+                "3:56pm": "inn/Story Listener 3",
+                "5:34pm": "inn/South Table Left End",
+                "7:39pm": "maples_room/Maple Wake Point"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "narrows/hgs_it_1",
+                "10:24am": "western_ruins/Dig Site Tour 3",
+                "3:52pm": "inn/South Table Bottom 1",
+                "10:15pm": "maples_room/Maple Wake Point"
+            }
+        }
+    },
+    "march": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "blacksmith_room_left/March Bed",
+                "6:15am": "town/blacksmith_routine_entrance",
+                "11:45am": "inn/South Table Top 1",
+                "4:09pm": "town/inn_exit_routine",
+                "7:11pm": "town/Anvil Chatting 1",
+                "10:33pm": "blacksmith_room_left/March Bed"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "blacksmith_room_left/March Bed",
+                "6:15am": "blacksmith_store/Workbench Stool",
+                "8:12am": "blacksmith_store/Store Chatting Right",
+                "10:25am": "town/blacksmith_routine_entrance",
+                "12:56pm": "town/Anvil Chatting 2",
+                "2:43pm": "town/Anvil Chatting 2",
+                "6:12pm": "inn/Bottom-Middle Bar Seat",
+                "10:43pm": "blacksmith_room_left/March Bed"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "blacksmith_room_left/March Bed",
+                "6:55am": "general_store_store/shopping_entrance",
+                "1:12pm": "town/adeline_business_general_store",
+                "4:42pm": "bathhouse_change_room/Right Bench Left Seat",
+                "8:03pm": "inn/Bottom Bar Seat",
+                "11:13pm": "blacksmith_room_left/March Bed"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "beach/group_3",
+                "11:23am": "beach/Dock Chatting 2",
+                "2:45pm": "beach/Lighthouse",
+                "6:42pm": "haydens_house/Table Seat 2",
+                "11:13pm": "blacksmith_room_left/March Bed"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "blacksmith_store/Workbench Stool",
+                "6:01am": "town/blacksmith_routine_entrance",
+                "6:12pm": "blacksmith_store/Workbench Stool",
+                "12:13am": "blacksmith_room_left/March Bed"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "narrows/mines_chat_2",
+                "11:12am": "museum_entry/south_routine_entrance",
+                "2:08pm": "town/north_west_routine_entrance",
+                "4:52pm": "inn/South Table Top 3",
+                "10:45pm": "blacksmith_room_left/March Bed"
+            }
+        }
+    },
+    "nora": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "holt_and_noras_bedroom/Nora's Desk",
+                "6:32am": "inn/work_chat_1",
+                "8:19am": "inn/North Table Left End",
+                "9:13am": "town/Playground Parent 3",
+                "10:17am": "beach/Right Bench Seat",
+                "4:32pm": "general_store_home/Kid Drop Off",
+                "8:41pm": "inn/South Table Bottom 2",
+                "12:31am": "general_store_home/Armchair"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "holt_and_noras_bedroom/Nora's Desk",
+                "6:12am": "general_store_store/north_entrance_to_shift",
+                "11:11am": "town/Fountain Square Right 3",
+                "4:42pm": "inn/South Table Top 1",
+                "9:58pm": "general_store_home/Armchair"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "holt_and_noras_bedroom/Nora's Desk",
+                "6:32am": "town/Quest Board Looking 3",
+                "10:15am": "general_store_store/north_entrance_to_shift",
+                "11:19am": "inn/South Table Left End",
+                "4:12pm": "general_store_store/south_entrance_to_shift",
+                "7:33pm": "celines_room/Couch Seat Middle",
+                "11:43pm": "general_store_home/Armchair"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "holt_and_noras_bedroom/Nora's Desk",
+                "6:32am": "general_store_store/north_entrance_to_shift",
+                "3:19pm": "town/mill_restoration_review_chat",
+                "5:22pm": "general_store_store/south_entrance_to_shift",
+                "7:33pm": "inn/Top-Middle Bar Seat",
+                "11:53pm": "general_store_home/Armchair"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/Fountain Square Right 2",
+                "8:37pm": "general_store_home/Kitchen Table Top Left",
+                "10:31pm": "general_store_home/Armchair"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "narrows/museum_chat_1",
+                "10:25am": "museum_entry/south_routine_entrance",
+                "2:54pm": "museum_entry/chat_2",
+                "3:59pm": "general_store_home/south_routine_entrance",
+                "8:09pm": "general_store_home/Kitchen Table Bottom Left",
+                "11:52pm": "general_store_home/Upper Couch Left Seat"
+            }
+        }
+    },
+    "olric": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "blacksmith_room_right/Olric Wake Point",
+                "6:18am": "town/blacksmith_routine_entrance",
+                "11:46am": "inn/South Table Bottom 1",
+                "3:23pm": "general_store_store/south_entrance_to_shift",
+                "6:43pm": "town/business_general_store",
+                "9:23pm": "blacksmith_room_right/Olric Wake Point"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Top 2",
+                "9:18am": "blacksmith_store/Blacksmith Till",
+                "3:23pm": "inn/food_service_entrance",
+                "12:23am": "blacksmith_room_right/Olric Wake Point"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "blacksmith_room_right/Olric Wake Point",
+                "6:48am": "blacksmith_store/Blacksmith Till",
+                "1:23pm": "general_store_store/south_entrance_to_shift",
+                "5:54pm": "town/general_store_entrance_routine",
+                "9:33pm": "inn/South Table Bottom 3",
+                "12:02am": "blacksmith_room_right/Olric Wake Point"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "blacksmith_room_right/Olric Wake Point",
+                "6:18am": "town/blacksmith_routine_entrance",
+                "9:02am": "town/forge_explanation",
+                "1:13pm": "town/Anvil Chatting 1",
+                "4:28pm": "blacksmith_store/Blacksmith Till",
+                "6:16pm": "bathhouse_change_room/Left Bench Right Seat",
+                "9:13pm": "inn/Bottom-Middle Bar Seat",
+                "12:02am": "blacksmith_room_right/Olric Wake Point"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/Fountain Hang 3",
+                "7:12pm": "inn/North Table Left End",
+                "12:15am": "blacksmith_room_right/Olric Wake Point"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "narrows/mines_chat_1",
+                "10:52am": "western_ruins/Grid Supervisor",
+                "2:11pm": "inn/food_service_entrance",
+                "7:51pm": "inn/South Table Bottom 3",
+                "11:12pm": "blacksmith_room_right/Olric Wake Point"
+            }
+        }
+    },
+    "reina": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "inn/Cutting Board",
+                "6:01am": "general_store_store/south_entrance_to_shift",
+                "11:17am": "inn/food_service_entrance",
+                "2:42pm": "inn/South Table Left End",
+                "4:11pm": "inn/South Table Left End",
+                "12:35am": "reinas_room/Reina Wake Point"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "inn/Cutting Board",
+                "7:21am": "adelines_office/Ad Couch Top Seat",
+                "11:17am": "inn/food_service_entrance",
+                "1:12pm": "inn/South Table Top 2",
+                "4:21pm": "inn/South Table Top 2",
+                "12:27am": "inn/Top Bar Hang",
+                "12:45am": "reinas_room/Reina Wake Point"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "haydens_farm/Farm Visitor 2",
+                "9:39am": "inn/food_service_entrance",
+                "6:21pm": "inn/South Table Top 3",
+                "12:35am": "reinas_room/Reina Wake Point"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "beach/group_1",
+                "11:25am": "beach/Chat Below Towels 3",
+                "4:31pm": "celines_room/Couch Seat Middle",
+                "12:35am": "reinas_room/Reina Wake Point"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Bottom 2",
+                "7:25am": "town/inn_exit_routine",
+                "5:47pm": "inn/chores_entrance",
+                "1:23am": "reinas_room/Reina Wake Point"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "beach/Dock Chatting 1",
+                "9:33am": "beach/Chat Below Towels 2",
+                "1:01pm": "beach/Right Bench Seat",
+                "4:24pm": "inn/South Table Bottom 2",
+                "12:31am": "reinas_room/Reina Wake Point"
+            }
+        }
+    },
+    "ryis": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "landens_house_f1/Carpentry Point Left",
+                "6:19am": "clinic_f1/Check In",
+                "8:13am": "clinic_f1/Top Bed",
+                "10:34am": "clinic_f1/Check In",
+                "11:03am": "town/clinic_routine_entrance",
+                "5:11pm": "eastern_road/Carpenter's Workshop Stool",
+                "9:27pm": "landens_house_f1/Carpentry Point Right",
+                "11:51pm": "landens_house_f2/Ryis Wake Point"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "landens_house_f1/Carpentry Point Left",
+                "6:11am": "blacksmith_store/Store Chatting Left",
+                "10:26am": "town/Anvil Chatting 1",
+                "11:41am": "town/Anvil Chatting 1",
+                "12:48pm": "town/Anvil Chatting 1",
+                "2:41pm": "eastern_road/north_west_routine_entrance",
+                "9:23pm": "landens_house_f1/Carpentry Point Right",
+                "11:58pm": "landens_house_f2/Ryis Wake Point"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "eastern_road/Carpenter's Workshop Stool",
+                "12:12pm": "eastern_road/explanation",
+                "1:16pm": "eastern_road/supervising_1",
+                "4:22pm": "town/business_inn",
+                "6:24pm": "bathhouse_change_room/Left Bench Right Seat",
+                "10:41pm": "inn/South Table Bottom 2",
+                "12:32am": "landens_house_f2/Ryis Wake Point"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "beach/group_2",
+                "11:21am": "beach/Dock Chatting 1",
+                "2:47pm": "beach/Chat Below Towels 2",
+                "4:48pm": "beach/sand_castle_2",
+                "6:43pm": "haydens_house/Table Seat 3",
+                "12:32am": "landens_house_f2/Ryis Wake Point"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "landens_house_f2/Ryis Wake Point",
+                "6:01am": "town/north_east_routine_entrance",
+                "8:03pm": "landens_house_f2/Work Stool"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "inn/North Table Bottom 2",
+                "9:53am": "museum_entry/south_routine_entrance",
+                "2:12pm": "general_store_store/shopping_entrance",
+                "6:43pm": "landens_house_f1/Carpentry Point Right",
+                "12:38am": "landens_house_f2/Ryis Wake Point"
+            }
+        }
+    },
+    "terithia": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "eastern_road/fishing_1",
+                "11:22am": "inn/North Table Top 1",
+                "4:32pm": "inn/Top Bar Seat",
+                "6:03pm": "town/Anvil Chatting 2",
+                "10:32pm": "beach/Fishing"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "town/River Fishing Near Celine's House",
+                "8:36am": "inn/North Table Bottom 1",
+                "11:17am": "town/business_inn",
+                "1:32pm": "beach/north_routine_entrance"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "town/River Fishing Near Celine's House",
+                "6:01am": "general_store_store/shopping_entrance",
+                "10:56am": "town/garden_wander_entrance",
+                "2:17pm": "town/Gazebo Hang Right",
+                "5:32pm": "inn/North Table Left End",
+                "11:24pm": "beach/north_routine_entrance"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "town/River Fishing Near Celine's House",
+                "6:01am": "general_store_store/shopping_entrance",
+                "10:26am": "town/Blacksmith Customer",
+                "12:37pm": "narrows/narrows_eastern_routine_entrance",
+                "2:32pm": "terithias_house/Couch Seat Top",
+                "7:51pm": "beach/Dock Chatting 1"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/Fountain Hang 2",
+                "6:56pm": "manor_house_dining_room/Table Left Seat 2"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "beach/Dock Chatting 2",
+                "9:36am": "beach/Dock Chatting 3",
+                "4:11pm": "beach/Picnic Bench Top Right",
+                "8:22pm": "terithias_house/Couch Seat Middle",
+                "12:12am": "terithias_house/Terithia Bed"
+            }
+        }
+    },
+    "valen": {
+        "monday": {
+            "pleasant": {
+                "6:00am": "clinic_f2/Valen Wake Point",
+                "6:01am": "clinic_f1/Research",
+                "7:24am": "clinic_f1/Doctor's Desk",
+                "8:15am": "clinic_f1/North Bed Side",
+                "10:31am": "clinic_f1/Doctor's Desk",
+                "10:51am": "clinic_f1/Prescription",
+                "11:04am": "clinic_f1/Doctor's Desk",
+                "12:03pm": "museum_entry/south_routine_entrance",
+                "5:12pm": "town/Celine Cottage Bench Right",
+                "9:35pm": "inn/Bottom Bar Seat",
+                "12:29am": "clinic_f2/Valen Wake Point"
+            }
+        },
+        "tuesday": {
+            "pleasant": {
+                "6:00am": "clinic_f2/Valen Wake Point",
+                "6:01am": "clinic_f1/Research",
+                "8:22am": "inn/North Table Left End",
+                "11:18am": "town/adeline_business_inn",
+                "1:31pm": "clinic_f1/Doctor's Desk",
+                "6:58pm": "clinic_f1/Valen Babysitting",
+                "8:26pm": "inn/Storyteller",
+                "9:49pm": "inn/Top-Middle Bar Seat",
+                "11:12pm": "clinic_f2/Valen Wake Point"
+            }
+        },
+        "wednesday": {
+            "pleasant": {
+                "6:00am": "beach/group_4",
+                "11:27am": "beach/Chat Below Towels 1",
+                "4:47pm": "beach/Beach Fishing East",
+                "6:46pm": "haydens_house/Table Seat 3",
+                "11:22pm": "clinic_f2/Valen Wake Point"
+            }
+        },
+        "thursday": {
+            "pleasant": {
+                "6:00am": "clinic_f2/Valen Wake Point",
+                "6:11am": "clinic_f1/Research",
+                "7:23am": "clinic_f1/Doctor's Desk",
+                "12:02pm": "town/Anvil Chatting 2",
+                "4:27pm": "clinic_f1/Doctor's Desk",
+                "8:16pm": "inn/Bottom Bar Seat",
+                "11:42pm": "clinic_f2/Valen Wake Point"
+            }
+        },
+        "saturday": {
+            "pleasant": {
+                "6:00am": "clinic_f1/Research",
+                "6:51am": "town/clinic_routine_entrance",
+                "6:52pm": "inn/Bottom Bar Seat",
+                "11:27pm": "clinic_f2/Valen Wake Point"
+            }
+        },
+        "sunday": {
+            "pleasant": {
+                "6:00am": "clinic_f2/Valen Wake Point",
+                "6:01am": "town/garden_wander_entrance",
+                "11:47am": "inn/South Table Bottom 2",
+                "4:49pm": "town/Conversation Outside Clinic Left",
+                "7:02pm": "clinic_f1/Research",
+                "11:22pm": "clinic_f2/Valen Wake Point"
+            }
+        }
+    },
+    "darcy": {
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/Darcy",
+                "8:55pm": "town/Darcy"
+            }
+        }
+    },
+    "louis": {
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/Louis",
+                "9:11pm": "town/Louis"
+            }
+        }
+    },
+    "merri": {
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/Merri",
+                "8:13pm": "town/Merri"
+            }
+        }
+    },
+    "vera": {
+        "saturday": {
+            "pleasant": {
+                "6:00am": "town/Vera",
+                "8:35pm": "town/Vera"
+            }
+        }
+    }
+}
